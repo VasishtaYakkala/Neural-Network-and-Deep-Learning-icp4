@@ -7,4 +7,4 @@ Name: Veda Siva Vasishta Yakkala ID: 700758715
 Predicting the first 4 images of the test data using the above mode and then, comparing with the actual label for those 4 images to check whether or not the model has predicted correctly.
 3.Visualizing Loss and Accuracy using the history object.
 
-Code File - Neural Network and Deep Learning icp4.ipynb Document- Neural Network and Deep Learning icp4.pdf
+Code File - Neural Network and Deep Learning icp4.ipynb Document- Neural Network and Deep Learning icp4.docx
